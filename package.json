@@ -1,0 +1,28 @@
+{
+  "name": "Next-Level-Week",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahPhilippos/Next-Level-Week.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahPhilippos/Next-Level-Week/issues"
+  },
+  "homepage": "https://github.com/NoahPhilippos/Next-Level-Week#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
