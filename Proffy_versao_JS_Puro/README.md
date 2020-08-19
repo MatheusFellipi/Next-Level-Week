@@ -13,16 +13,16 @@ Versão React do [Rocketseat](https://github.com/Rocketseat) Next Week Level,
 Proffy é uma plataforma de estudo online que criado para os professores em todo o mundo para dar aulas,
 *totalmente responsivas para web mobile*
 
-Technology used
+**Technology used**
 
-*_Front-end_*
+**Front-end**
 
 * React
 * typescript
 * Css
 * html
 
-*_Back-end_*
+**Back-end_**
 
 * NodeJS
 * knex
@@ -43,6 +43,6 @@ Technology used
 * yarn add knex sqlite3
 
 
-**License**
+**LICENSE(https://github.com/Rocketseat)**
 
 [Rocketseat](https://github.com/Rocketseat)
