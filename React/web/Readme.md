@@ -38,8 +38,17 @@ yarn init -y
 yarn add typescript -D
 yarn ts-node-dev -D
 yarn express 
-
+  
 yarn add knex sqlite3
+
+##### Mobile <h5>
+* expo init 
+* npm install @react-navigation/native
+* expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+* npm install @react-navigation/stack
+
+
+
 
 
 **License**
